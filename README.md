@@ -1,1 +1,1 @@
-Maaf saya baru sempat membuatkan tabel user untuk login
+Maaf saya baru sempat menyelesaikan tabel user untuk login
