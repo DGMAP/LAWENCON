@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Register</string>
+    <string name="text_accounts">DAFTAR USER</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Ulangi Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrasi</string>
+    <string name="error_message_name">Masukkan Name</string>
+    <string name="error_message_email">Masukkan Email</string>
+    <string name="error_message_age">Masukkan umur</string>
+    <string name="error_message_password">Masukkan Password</string>
+    <string name="success_message">Registrasi sukses</string>
+    <string name="text_not_member">Belum punya akun? Daftar</string>
+    <string name="text_already_member">Sudah menjadi member? Login</string>
+    <string name="error_email_exists">Email sudah ada</string>
+    <string name="error_password_match">Password Tidak sama</string>
+    <string name="error_valid_email_password">Email atau Password salah</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">STEFANUS ANDRA YIWA,</string>
+    <string name="text_title">TEST LAWENCON</string>
+</resources>

@@ -1,0 +1,18 @@
+com/lawencon/andra/model/User.java
+ com.lawencon.andra.model.User
+com/lawencon/andra/adapters/UsersRecyclerAdapter.java
+ com.lawencon.andra.adapters.UsersRecyclerAdapter
+ com.lawencon.andra.adapters.UsersRecyclerAdapter$UserViewHolder
+com/lawencon/andra/sql/DatabaseHelper.java
+ com.lawencon.andra.sql.DatabaseHelper
+com/lawencon/andra/helpers/InputValidation.java
+ com.lawencon.andra.helpers.InputValidation
+com/lawencon/andra/BuildConfig.java
+ com.lawencon.andra.BuildConfig
+com/lawencon/andra/activities/UsersListActivity.java
+ com.lawencon.andra.activities.UsersListActivity
+ com.lawencon.andra.activities.UsersListActivity$1
+com/lawencon/andra/activities/LoginActivity.java
+ com.lawencon.andra.activities.LoginActivity
+com/lawencon/andra/activities/RegisterActivity.java
+ com.lawencon.andra.activities.RegisterActivity

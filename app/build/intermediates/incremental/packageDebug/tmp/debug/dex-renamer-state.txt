@@ -1,0 +1,4 @@
+#Thu Feb 11 19:34:25 ICT 2021
+base.0=D\:\\Kerjaan Andra\\LAMARAN\\Lawencon\\Test\\lawencon-test\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
